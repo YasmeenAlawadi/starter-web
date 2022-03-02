@@ -2,6 +2,7 @@
 
 This a simple website project for showing how Git and GitHub work.
 Adding a line for rebasing example.
+more changes from myfeature branch too
 
 ## Purpose
 
